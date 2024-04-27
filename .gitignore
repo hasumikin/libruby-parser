@@ -1,0 +1,6 @@
+lib/ruby
+lib/prism
+build/main
+build/*.o
+build/*.a
+tags
